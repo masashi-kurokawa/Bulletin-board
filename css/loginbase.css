@@ -1,0 +1,25 @@
+@charset "UTF-8";
+header h1 {
+  font-size: 500%;
+  text-align: center;
+}
+/* login */
+#login {
+  margin: 30px;
+  font-size: 200%;
+  text-align: center;
+}
+dd {
+  margin-top: -15px;
+}
+dt {
+  margin-left: -110px;
+}
+.button {
+  margin: -10px 5px;
+  font-size: 50%;
+}
+.error {
+  text-align: center;
+  color: #ff0000;
+}

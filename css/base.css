@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/*---Reset---*/
+body, h1, h2, h3, h4, h5, h6, p, address,
+ul, ol, li, dl, dt, dd, img, form, table, tr, th, td {
+  list-style-type: none;
+}
+body {
+  margin: 0;
+  font-family: "游ゴシック体", YuGothic, "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック", "Yu Gothic", sans-serif;
+}
+a {
+  text-decoration: none;
+}
+#login .error {
+  color: red;
+}
+.error {
+  color: red;
+  text-align: center;
+}
+.logout {
+  margin: 16px;
+}

@@ -1,0 +1,32 @@
+@charset "UTF-8";
+header h1 {
+  font-size: 500%;
+  text-align: center;
+}
+/* login */
+#login {
+  margin: 30px auto;
+  width: 580px;
+  text-align: center;
+}
+.textright {
+  text-align: right;
+}
+#login div {
+  margin: 10px 0;
+}
+#login div label {
+  font-size: 20px;
+}
+#login div input {
+  height: 20px;
+}
+#login input {
+}
+.button {
+  font-size: 100%;
+}
+.error {
+  color: red;
+  text-align: center;
+}
